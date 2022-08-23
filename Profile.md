@@ -8,3 +8,4 @@ Breed: **Beagle**
 
 Location: **Philadelphia**
 
+Skills: digging holes, guarding the pack.
